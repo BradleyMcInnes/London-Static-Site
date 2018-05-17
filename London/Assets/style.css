@@ -1,0 +1,150 @@
+
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.Container {
+	display: grid;
+	grid-template-columns: repeat(12, 1fr); 
+	grid-gap: 10px;	
+	grid-template-rows: 121.5px repeat(12, 49px);
+}
+
+/*Header*/
+.Header {
+	/*position: relative;
+	width: 100%;
+	height: 100%;*/
+	grid-column-start: 1;
+	grid-column-end: 3;
+}
+
+.Header-Nav {
+	grid-column-start: 5;
+	grid-column-end: 14;
+	align-self: end;
+	margin: 0px;
+	padding: 0px;
+}
+
+.Header-Line {
+	width: 100%;
+	height: 9px;
+	background: #004996;
+	grid-column-start: 1;
+	grid-column-end: 14;
+	z-index: -1;
+}
+
+/*Nav Menu*/
+ul li {
+	display: inline-block; /*Not working when inside the grid*/
+	list-style-type: none;
+	font-family: 'Share';
+	font-size: 48px;
+	color: #4A90E2;
+	margin: 0px 30px 0px 0px;
+	padding: 0px;
+	line-height: 0;
+}
+
+/*Content Section*/
+
+.Content-Shapes {
+	height: 300px;
+	width: 300px;
+	grid-row-start: 3;
+}
+
+.Content-Shapes img {
+	width: inherit;
+}
+
+/*WestEnd Content*/
+#WestEnd {
+    grid-column-start: 3;
+	grid-column-end: 6;
+	margin: 0px 0px 0px 0px;
+	grid-row-start: 5;
+	width: 300px;
+	height: 300px;
+	transition: all .2s ease-in-out;
+}
+
+#OxfordCircus {
+	height: 300px;
+	width: 300px;
+	z-index: 2;
+	grid-column-start: 4;
+	grid-column-end: 6;
+	grid-row-start: 5;
+	pointer-events: none;
+}
+
+#WestEnd:hover {
+	width: 400px;
+	height: 400px;
+}
+
+
+
+/*Eastend Content*/
+#EastEnd {
+	grid-column-start: 9;
+	grid-column-end: 12;
+	height: 300px;
+	width: 300px;
+	transition: all .2s ease-in-out;
+}
+
+
+
+#TrumanPic {
+	height: 300px;
+	width: 300px;
+	z-index: 2;
+	grid-column-start: 9;
+	grid-column-end: 12;
+	grid-row-start: 4;
+	pointer-events: none;
+}
+
+#EastEnd:hover {
+	width: 400px;
+	height: 400px;
+}
+
+.Content-OrangeSquare {
+	height: 29px;
+	width: 70px;
+	background-color: #F07F00;
+	grid-column-start: 9;
+	grid-column-end: 10;
+	grid-row-start: 4;
+	grid-row-end: 4;
+	z-index: 3;
+	align-self: end;
+}
+
+/*Text*/
+
+h1 {
+	font-family: 'share';
+	font-size: 48px;
+	color: #F07F00;
+	grid-column-start: 4;
+	grid-column-end: 8;
+	grid-row-start: 3;
+}
+
+h2 {
+	font-family: 'share';
+	font-size: 25px;
+	color: #566576;
+	grid-column-start: 4;
+	grid-column-end: 11;
+	grid-row-start: 4;
+	z-index: 5;
+}

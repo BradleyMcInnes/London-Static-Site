@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="657px" height="703px" viewBox="0 0 657 703" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Shapes</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="London-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD---Landing-Page-Mockup" transform="translate(-649.000000, -123.000000)">
+            <g id="Shapes---East" transform="translate(640.000000, 107.000000)">
+                <g id="Shapes">
+                    <polygon id="Rectangle-13" fill="#004996" points="606.529389 345.367201 653.466922 354.11013 653.466922 394.070116 521.326785 394.070116"></polygon>
+                    <polygon id="Rectangle-12" fill="#F07F00" points="512.450024 399.812009 653.466922 399.812009 665.520522 531.772369 569.061081 477.282703 512.450024 477.282703"></polygon>
+                    <polygon id="Triangle-7" fill="#F5C001" points="501.254477 414.054594 501.254477 466.601885 443.386985 433.119473"></polygon>
+                    <polygon id="Rectangle-11" fill="#F5C001" points="561.645053 245.489667 660.699082 191.157006 660.699082 339.535592 578.938904 334.92862 537.619574 307.982096"></polygon>
+                    <polygon id="Triangle-6" fill="#F07F00" transform="translate(610.114824, 563.527728) rotate(-45.000000) translate(-610.114824, -563.527728) " points="668.859772 556.064064 638.523023 582.664269 594.975341 563.540416 551.369876 544.391187"></polygon>
+                    <polygon id="Triangle-5" fill="#F5C001" transform="translate(569.357314, 525.727681) scale(1, -1) translate(-569.357314, -525.727681) " points="505.04421 487.08878 633.670417 517.126056 567.487984 564.366582"></polygon>
+                    <polygon id="Rectangle-10" fill="#F07F00" transform="translate(472.982235, 335.097539) rotate(-32.000000) translate(-472.982235, -335.097539) " points="382.526553 276.76768 457.512542 268.08767 563.437917 369.178788 384.81426 402.107408"></polygon>
+                    <polygon id="Rectangle-9" fill="#004996" transform="translate(354.676267, 576.288337) rotate(-43.000000) translate(-354.676267, -576.288337) " points="323.462766 563.410416 424.140966 563.410416 424.140966 584.65542 285.211568 589.166257"></polygon>
+                    <polygon id="Rectangle-8" fill="#F07F00" transform="translate(268.475270, 533.068021) rotate(45.000000) translate(-268.475270, -533.068021) " points="191.899093 472.610128 358.211817 508.222945 339.935205 553.048308 232.738135 593.525915 178.738722 523.196827"></polygon>
+                    <polygon id="Rectangle-7" fill="#004996" points="29.785085 271.193609 350.124813 271.193609 259.886255 322.296455 29.785085 373.399302"></polygon>
+                    <polygon id="Triangle-4" fill="#F07F00" points="37.6301395 381.437952 173.835813 490.004584 37.6301395 473.308237"></polygon>
+                    <rect id="Rectangle-6" fill="#F5C001" transform="translate(262.572112, 400.039187) rotate(56.000000) translate(-262.572112, -400.039187) " x="123.322393" y="331.136473" width="278.499437" height="137.805428"></rect>
+                    <path d="M580.583505,618.539995 C500.694407,592.592381 464.877511,577.267957 473.132817,572.566723 C477.115408,570.298716 512.932304,570.298716 580.583505,572.566723 L661.311977,572.566723 L661.311977,664.513268 L473.132817,664.513268 L580.583505,618.539995 Z" id="Rectangle-5" fill="#004996" transform="translate(566.642524, 617.689493) rotate(6.000000) translate(-566.642524, -617.689493) "></path>
+                    <rect id="Rectangle-4" fill="#F07F00" transform="translate(439.305258, 617.548240) rotate(45.000000) translate(-439.305258, -617.548240) " x="352.355903" y="586.542019" width="173.898709" height="62.0124425"></rect>
+                    <polygon id="Triangle-2" fill="#004996" transform="translate(119.972568, 568.681974) scale(1, -1) translate(-119.972568, -568.681974) " points="33.7076122 487.08878 206.237523 636.997041 33.7076122 650.275168"></polygon>
+                    <polygon id="Polygon-5" fill="#F5C001" transform="translate(163.504466, 623.092366) rotate(-33.000000) translate(-163.504466, -623.092366) " points="183.589966 583.101716 332.190014 613.651854 275.429846 663.083016 108.884425 660.027955 -5.18108107 627.498105"></polygon>
+                    <polygon id="Polygon-4" fill="#004996" transform="translate(430.250904, 501.477024) scale(1, -1) rotate(-45.000000) translate(-430.250904, -501.477024) " points="447.04085 460.128896 560.688091 465.777815 516.977495 534.397245 322.270135 542.825152 299.813717 495.356507"></polygon>
+                    <polygon id="Polygon-6" fill="#004996" points="461.263086 222.96171 550.796169 256.48751 516.597574 310.733395 441.905822 291.640131 257.812628 228.183243"></polygon>
+                    <polygon id="Rectangle-3" fill="#F5C001" transform="translate(186.954949, 199.132854) rotate(4.000000) translate(-186.954949, -199.132854) " points="24.1700668 133.388182 96.8900451 187.357488 186.954949 233.978966 349.739831 264.877527 24.1700668 264.877527"></polygon>
+                    <polygon id="Rectangle-2" fill="#004996" points="9.70999404 94.3433104 279.056867 94.3433104 165.487445 107.213225 101.87917 182.073153"></polygon>
+                    <polygon id="Polygon-3" fill="#F07F00" transform="translate(225.867786, 162.714738) rotate(110.000000) translate(-225.867786, -162.714738) " points="197.537264 124.946294 385.265842 146.62097 310.796988 200.483183 144.511847 200.483183 66.4697302 153.536123"></polygon>
+                    <polygon id="Triangle" fill="#004996" transform="translate(530.279823, 147.404846) rotate(99.000000) translate(-530.279823, -147.404846) " points="536.986158 128.183263 566.708011 162.382892 493.851634 166.626429"></polygon>
+                    <polygon id="Rectangle" fill="#F5C001" transform="translate(498.527095, 131.091424) rotate(8.000000) translate(-498.527095, -131.091424) " points="335.742213 94.3433104 661.311977 94.3433104 661.311977 167.839539 518.793486 131.091424"></polygon>
+                    <polygon id="Polygon" fill="#004996" transform="translate(367.366810, 155.740029) rotate(-5.000000) translate(-367.366810, -155.740029) " points="336.277664 98.321101 499.062546 142.185259 436.884254 213.158958 235.671074 213.158958 334.4279 161.730838"></polygon>
+                    <polygon id="Polygon-2" fill="#F07F00" transform="translate(550.186073, 189.679859) rotate(-40.000000) translate(-550.186073, -189.679859) " points="541.279516 154.956593 641.63877 184.713221 659.451885 210.146065 476.995225 224.403125 440.920262 184.713221"></polygon>
+                    <polygon id="Triangle-3" fill="#004996" points="336.018015 628.935962 425.96034 663.939078 203.683794 663.939078"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="283px" height="193px" viewBox="0 0 283 193" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="London-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD---Landing-Page-Mockup">
+            <g id="Header" transform="translate(-45.000000, -63.000000)">
+                <g id="Logo" transform="translate(201.766360, 154.037047) rotate(-11.000000) translate(-201.766360, -154.037047) translate(20.266360, 32.537047)">
+                    <polygon id="Logo-Holder-Copy" fill="#004996" transform="translate(162.366861, 121.457996) rotate(10.000000) translate(-162.366861, -121.457996) " points="15.1012358 24.9384643 309.632486 24.9384643 269.827798 168.805652 15.1012358 217.977527"></polygon>
+                    <text id="LONDON" font-family="Share-Bold, Share" font-size="64" font-weight="bold" letter-spacing="4" fill="#FFFFFF">
+                        <tspan x="40" y="107">LONDON</tspan>
+                    </text>
+                    <text id="EASTWEST" font-family="Share-Regular, Share" font-size="51" font-weight="normal" letter-spacing="5.0999999" fill="#FFFFFF">
+                        <tspan x="39" y="161">EASTWEST</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
